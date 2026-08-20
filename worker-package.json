@@ -1,0 +1,11 @@
+{
+  "name": "pmg-intake-app-vehicle-api",
+  "private": true,
+  "scripts": {
+    "dev": "wrangler dev cloudflare-worker.js",
+    "deploy": "wrangler deploy cloudflare-worker.js"
+  },
+  "devDependencies": {
+    "wrangler": "^4.30.0"
+  }
+}
