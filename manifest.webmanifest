@@ -1,0 +1,9 @@
+{
+  "name": "PMG Intake App",
+  "short_name": "PMG Intake",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#05090f",
+  "theme_color": "#07111d",
+  "description": "Penistone Motor Group vehicle intake and stock control."
+}
